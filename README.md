@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet ML Retail - Analyse Comportementale Clientèle
 
 ## Description
@@ -56,3 +57,6 @@ python src/predict.py
 # 5. Lancer l'application Flask
 python app/app.py
 ```
+=======
+# Machine_Learning
+>>>>>>> bc8ebb5ccafe69e2a119f215a8ebf274fa6bff96
